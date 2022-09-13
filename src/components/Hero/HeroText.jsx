@@ -18,7 +18,7 @@ function HeroText(props) {
                     </div>
                 </div>
                 {/* <img src="../src/img/car-wash.svg" className="hidden overflow-hidden md:block absolute col-start-2 col-span-2 row-start-1 row-span-full z-0 left-2/4 translate-x-20 md:portrait:-translate-y-12 md:landscape:-translate-y-12 md:bg-transparent bg-white h-[700px] w-auto lg:translate-x-0"></img> */}
-                <img src="/public/img/car-wash.svg" className="hidden md:flex content-center absolute h-[650px] w-auto left-2/4 translate-x-32 md:-translate-y-8 lg:translate-x-22 xl:translate-x-16"></img>
+                <img src="/img/car-wash.svg" className="hidden md:flex content-center absolute h-[650px] w-auto left-2/4 translate-x-32 md:-translate-y-8 lg:translate-x-22 xl:translate-x-16"></img>
             </div>
         </section>
     )
