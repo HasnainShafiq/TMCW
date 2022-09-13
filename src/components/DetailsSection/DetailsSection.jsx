@@ -31,7 +31,7 @@ function DetailsSection() {
 
                         <Card className=" bg-gradient-to-l from-gray-800 to-gray-900 space-y-1 px-4 py-8 justify-items-start max-w-prose shadow-md shadow-gray-800 md:col-span-2 md:max-w-none md:py-12 md:px-6 md:h-min lg:max-w-prose lg:px-6 lg:pt-6 lg:pb-10 lg:items-start">
                             <h2 className=" text-gray-200 text-xl font-semibold tracking-tight inline-flex items-center font-Poppins lg:text-2xl"> <span className="inline-flex text-gray-800 p-1 text-lg bg-gray-300 rounded-full mr-3"><CheckIcon className="h-6 inline-block" /></span><span> Place your order! </span></h2>
-                            <p className="text-gray-300 font-Montserrat text-md leading-6 md:text-lg">Submit your order for a mobile car wash and wait for your order to arrive! You will be notified on the day when your Mobile Car Wash is on the.</p>
+                            <p className="text-gray-300 font-Montserrat text-md leading-6 md:text-lg">Submit your order for a mobile car wash and wait for your order to arrive! You will be notified on the day when your Mobile Car Wash is on the way.</p>
                         </Card>
                     </ul>
                 </div>
