@@ -6,7 +6,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://uncreative-creativity.github.io',
-  base: '/The-Moving-Car-Wash',
   vite: {
     ssr: {
       external: ["svgo"],
