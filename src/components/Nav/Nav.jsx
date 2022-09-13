@@ -9,8 +9,8 @@ function Nav(props) {
                     <h1 className="text-white font-semibold font-Poppins text-2xl tracking-tight">TMCW</h1>
                 </div>
                 <div className="flex gap-x-1">
-                    <Button type="button" className="py-2 px-3 rounded-2xl text-white font-semibold text-sm font-Poppins hover:bg-gray-500 hover:text-white">Log in</Button>
-                    <Button type="button" className="py-2 px-3 rounded-2xl bg-white text-sky-800 font-semibold text-sm font-Poppins hover:bg-gray-300">Sign up</Button>
+                    <Button type="button" className="py-2 px-3 z-20 rounded-2xl text-white font-semibold text-sm font-Poppins hover:bg-gray-500 hover:text-white">Log in</Button>
+                    <Button type="button" className="py-2 px-3 z-20 rounded-2xl bg-white text-sky-800 font-semibold text-sm font-Poppins hover:bg-gray-300">Sign up</Button>
                 </div>
             </div>
         </nav>
