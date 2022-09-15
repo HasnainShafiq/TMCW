@@ -8,7 +8,7 @@ function Newsletter() {
             <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl" id="newsletter-headline">
               Sign up for our newsletter
             </h2>
-            <p className="mt-3 max-w-3xl font-Montserrat text-lg leading-6 text-gray-300">
+            <p className="mt-3 max-w-3xl font-Montserrat text-sm leading-6 text-gray-300 md:text-md lg:text-lg">
              Keep up to date with our latest ventures and ideas. We also send out regular discounts via email!
             </p>
           </div>
@@ -30,7 +30,7 @@ function Newsletter() {
                 <Button type="submit" className="p-3 w-full items-center justify-center rounded-md bg-sky-600 hover:bg-sky-700">Submit</Button>
               </div>
             </form>
-            <p className="mt-3 text-sm text-gray-300">
+            <p className="mt-3 text-sm text-gray-300 md:text-md">
               We care about the protection of your data. Read our{' '}
               <a href="#" className="font-medium text-white underline">
                 Privacy Policy.
