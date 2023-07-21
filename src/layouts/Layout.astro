@@ -1,8 +1,11 @@
 ---
+// Typescript type declaration
+
 export interface Props {
 	title: string;
 }
 
+// title is set by each page title which is passed as props to <layout> </Layout>.
 const { title } = Astro.props;
 ---
 
