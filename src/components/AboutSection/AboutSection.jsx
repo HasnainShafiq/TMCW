@@ -4,7 +4,7 @@ function AboutSection(props) {
         <section className="relative bg-gradient-to-t from-gray-900 to-gray-800">
 
             <div className="contents max-w-7xl">
-                <img className="w-full" src="/img/wavesOpacity.svg" alt="" />
+                <img className="sm:w-full" src="/img/wavesOpacity.svg" alt="" />
             </div>
 
             <div className="md:flex md:flex-col md:items-center">

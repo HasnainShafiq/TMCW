@@ -9,7 +9,7 @@ function DetailsSection() {
 
         <section className="bg-Gradient bg-cover bg-center bg-blend-screen bg-sky-700 w-screen flex flex-col items-center">
 
-            <img className="w-full" src="/img/tilt(5).svg" alt="" />
+            <img className="sm:w-full" src="/img/tilt(5).svg" alt="" />
 
             <div className="relative flex flex-col items-start px-4 py-10 space-y-8 md:px-8 lg:py-10 lg:items-center">
 
